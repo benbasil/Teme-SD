@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1647304675 source:c:\users\ben\desktop\myassprogramming\sdshit\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+	<chrono>
+	<thread>
+	<tuple>
+
